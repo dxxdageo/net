@@ -1,4 +1,14 @@
 .cabecalho{
-    background-color: rgba(32, 6, 73, 0.85);
-    color:black
+    background-color: rgb(230, 220, 25);
+    color:aqua;
+    display:flex;
+    justify-content: space-around;
+    padding: 240px 0;
+    font-size: 50px;
+}
+
+.cabecalhoLiataItem{
+     display: inline-block;
+     margin: 0 120px;
+     padding: 78px 0;
 }
