@@ -1,24 +1,42 @@
 *{/*Novo*/
-    margin; 0;/*novo*/
-    padding;0;/*novo*/
+    margin: 50;/*novo*/
+    padding:45;/*novo*/
 } /*novo*/
     
 .cabecalho{
-    background-color: rgb(230, 220, 25);
-    color:aqua;
+    background-color: rgb(151, 1, 1);
+    color:rgb(255, 0, 0);
     display:flex;
     justify-content: space-around;
-    padding: 240px 0;
+    padding: 24px 0;
     font-size: 50px;
 }
 
 .cabecalhoLiataItem{
      display: inline-block;
-     margin: 0 120px;
+     margin: 0 12px;
      padding: 78px 0;
 
- <section class="sobre">
-<h2 class="sobreTitulo"></h2>
-<p class="sobreTextoUm"></p>
-<p class="sobreTextoDois"></p>
-</section>    }
+  }
+
+  .sobreImagem{
+           width: 55px;
+}
+
+.sobre{
+        background-image: linear-gradient(#eb7a7a, #e63f3f);
+        color: rgb(47, 1, 1);
+        display: flex;
+        justify-content: center;
+       align-items: center;
+       padding: 80px 0;
+}
+
+.sobreConteudo{
+        width: 53px;
+}
+
+.sobreTitulo{
+         padding: 100px 50px;
+}
+
