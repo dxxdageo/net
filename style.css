@@ -5,17 +5,17 @@
     
 .cabecalho{
     background-color: rgb(151, 1, 1);
-    color:rgb(255, 0, 0);
+    color:rgb(22, 22, 22);
     display:flex;
     justify-content: space-around;
-    padding: 24px 0;
-    font-size: 50px;
+    padding: 15px 0;
+    font-size: 20px;
 }
 
-.cabecalhoLiataItem{
+.cabecalholistaitem{
      display: inline-block;
      margin: 0 12px;
-     padding: 78px 0;
+     padding: 15px 0;
 
   }
 
@@ -24,7 +24,7 @@
 }
 
 .sobre{
-        background-image: linear-gradient(#eb7a7a, #e63f3f);
+        background-image: linear-gradient(#910e0e,#e413a5);
         color: rgb(47, 1, 1);
         display: flex;
         justify-content: center;
